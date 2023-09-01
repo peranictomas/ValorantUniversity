@@ -1,10 +1,10 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
-pod 'Firebase/Analytics'
-pod 'Firebase/Auth'
-pod 'Firebase/Firestore'
+# pod 'Firebase/Analytics'
+# pod 'Firebase/Auth'
+# pod 'Firebase/Firestore'
 pod "youtube-ios-player-helper", "~> 1.0.3"
-pod 'FirebaseFirestoreSwift', '8.8.0-beta'
+# pod 'FirebaseFirestoreSwift', '8.8.0-beta'
 pod 'MessageKit'
 pod 'Alamofire', '~> 5.4'
 
@@ -25,7 +25,7 @@ target 'ValU' do
 post_install do |pi|
   pi.pods_project.targets.each do |t|
     t.build_configurations.each do |config|
-      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.5'
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0'
     end
   end
 end

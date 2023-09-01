@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>868992500282-q0njadkgm4aj8l1d0g1m6eo7r8ofg794.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.868992500282-q0njadkgm4aj8l1d0g1m6eo7r8ofg794</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXD9asz0sOBQn1-qBL6MHnOSn8hnJIyzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>868992500282</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TP.ValU.ValU</string>
+	<key>PROJECT_ID</key>
+	<string>valorantuniversity</string>
+	<key>STORAGE_BUCKET</key>
+	<string>valorantuniversity.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:868992500282:ios:7bf5fde56b9d8e9ce52b03</string>
+	<key>DATABASE_URL</key>
+	<string>https://valorantuniversity-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
